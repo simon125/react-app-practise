@@ -1,2 +1,2 @@
-# react-app-practise
+# REACT 
 First steps with React library 
